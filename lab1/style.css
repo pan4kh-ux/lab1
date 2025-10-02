@@ -1,0 +1,23 @@
+body {
+    background-color: #ADD8E6;
+}
+
+button {
+    width: 45px;
+}
+
+h1 {
+    color: #808080;
+}
+
+p {
+    font-size: 18pt;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid green;
+}
